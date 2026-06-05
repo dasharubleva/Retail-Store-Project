@@ -29,72 +29,6 @@
 | Transaction Date | Дата транзакції                     |
 | Discount Applied | Чи була знижка                      |
 
-# Product Catalog Overview
-## Electric Household Essentials
-
-| Item Code   | Product           | Price ($) |
-| ----------- | ----------------- | --------: |
-| Item_1_EHE  | Blender           |       5.0 |
-| Item_2_EHE  | Microwave         |       6.5 |
-| Item_3_EHE  | Toaster           |       8.0 |
-| Item_4_EHE  | Vacuum Cleaner    |       9.5 |
-| Item_5_EHE  | Air Purifier      |      11.0 |
-| Item_6_EHE  | Electric Kettle   |      12.5 |
-| Item_7_EHE  | Rice Cooker       |      14.0 |
-| Item_8_EHE  | Iron              |      15.5 |
-| Item_9_EHE  | Ceiling Fan       |      17.0 |
-| Item_10_EHE | Table Fan         |      18.5 |
-| Item_11_EHE | Hair Dryer        |      20.0 |
-| Item_12_EHE | Heater            |      21.5 |
-| Item_13_EHE | Humidifier        |      23.0 |
-| Item_14_EHE | Dehumidifier      |      24.5 |
-| Item_15_EHE | Coffee Maker      |      26.0 |
-| Item_16_EHE | Portable AC       |      27.5 |
-| Item_17_EHE | Electric Stove    |      29.0 |
-| Item_18_EHE | Pressure Cooker   |      30.5 |
-| Item_19_EHE | Induction Cooktop |      32.0 |
-| Item_20_EHE | Water Dispenser   |      33.5 |
-| Item_21_EHE | Hand Blender      |      35.0 |
-| Item_22_EHE | Mixer Grinder     |      36.5 |
-| Item_23_EHE | Sandwich Maker    |      38.0 |
-| Item_24_EHE | Air Fryer         |      39.5 |
-| Item_25_EHE | Juicer            |      41.0 |
-
-
-## Furniture Category
-
-| Item Code   | Product          | Price ($) |
-| ----------- | ---------------- | --------: |
-| Item_1_FUR  | Office Chair     |       5.0 |
-| Item_2_FUR  | Sofa             |       6.5 |
-| Item_3_FUR  | Coffee Table     |       8.0 |
-| Item_4_FUR  | Dining Table     |       9.5 |
-| Item_5_FUR  | Bookshelf        |      11.0 |
-| Item_6_FUR  | Bed Frame        |      12.5 |
-| Item_7_FUR  | Wardrobe         |      14.0 |
-| Item_8_FUR  | Study Table      |      15.5 |
-| Item_9_FUR  | Recliner         |      17.0 |
-| Item_10_FUR | Side Table       |      18.5 |
-| Item_11_FUR | TV Stand         |      20.0 |
-| Item_12_FUR | Dressing Table   |      21.5 |
-| Item_13_FUR | Chest of Drawers |      23.0 |
-| Item_14_FUR | Ottoman          |      24.5 |
-| Item_15_FUR | Rocking Chair    |      26.0 |
-| Item_16_FUR | Shoe Rack        |      27.5 |
-| Item_17_FUR | Nightstand       |      29.0 |
-| Item_18_FUR | Patio Chair      |      30.5 |
-| Item_19_FUR | Folding Table    |      32.0 |
-| Item_20_FUR | Bean Bag         |      33.5 |
-| Item_21_FUR | Wooden Bench     |      35.0 |
-| Item_22_FUR | Corner Shelf     |      36.5 |
-| Item_23_FUR | Magazine Rack    |      38.0 |
-| Item_24_FUR | Bar Stool        |      39.5 |
-| Item_25_FUR | Accent Chair     |      41.0 |
-
-
- [Ресурс](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning/data)
-
-
 
 # Інструменти
 
@@ -206,3 +140,5 @@ Pareto-аналіз показав, що 93 товари (20% асортимен
 - Продовжити аналіз впливу знижок на продажі, кількість транзакцій та поведінку клієнтів.
 - Оцінити вплив знижок на прибутковість і маржинальність товарів.
 - Використовувати персоналізовані знижки та акції для окремих сегментів клієнтів і груп товарів замість масових знижок для всіх покупців.
+
+[Ресурс](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning/data)
